@@ -45,7 +45,7 @@
     "babel-plugin-steal-test": "0.0.2",
     "babel-preset-steal-test": "0.0.1",
     "babel-standalone": "6.24.2",
-    "eslint": "^3.19.0",
+    "eslint": "^4.0.0",
     "fs-extra": "^2.0.0",
     "grunt": "~0.4.1",
     "grunt-cli": "^1.2.0",
